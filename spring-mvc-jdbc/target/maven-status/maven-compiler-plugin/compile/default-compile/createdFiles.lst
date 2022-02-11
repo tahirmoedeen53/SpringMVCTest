@@ -1,0 +1,7 @@
+com\academy\controller\UserDetailController.class
+com\academy\dao\impl\UserDetailDaoImpl.class
+com\academy\rowmapper\UserDetailRowMapper.class
+com\academy\service\impl\UserDetailServiceImpl.class
+com\academy\service\UserDetailService.class
+com\academy\dao\UserDetailDao.class
+com\academy\model\UserDetail.class
