@@ -22,7 +22,6 @@ import com.academy.service.UserDetailService;
 @RequestMapping("/")
 public class UserDetailController {
 	
-	//@Autowired Annotation	
 	@Autowired
 	private UserDetailService userDetailService;
 	
