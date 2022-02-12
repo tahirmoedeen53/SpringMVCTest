@@ -23,7 +23,9 @@
 					</tr>
 				</thead>
 				<tbody>
+				<!-- Loops through each user -->
 					<c:forEach var="user" items="${userDetail}">
+						<!--  Display the all the users in a table -->
 						<tr>
 							<td>${user.id}</td>
 							<td>${user.firstName}</td>
